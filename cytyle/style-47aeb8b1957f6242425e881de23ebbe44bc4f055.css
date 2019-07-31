@@ -152,7 +152,8 @@ div.cy-table {
 
 panel {
 	display: block;
-	margin: 0 auto
+	margin: 0 auto;
+	background-color: #000;
 }
 
 panel>hr {
