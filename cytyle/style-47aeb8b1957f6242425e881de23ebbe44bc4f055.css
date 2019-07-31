@@ -180,7 +180,7 @@ panel>hr {
 
 panel>block {
 	display: block;
-	background-color: rgba(255, 255, 255, 0.5);
+	background-color: rgba(255, 255, 255, 1);
 	margin-top: 9px;
 	margin-bottom: 9px
 }
@@ -327,7 +327,7 @@ panel>label {
 }
 
 .cytyle-faux panel>label {
-	text-shadow: rgba(255, 255, 255, 0.75) 1px 1px 0;
+	text-shadow: rgba(255, 255, 255, 1) 1px 1px 0;
 	font-weight: bold;
 	font-size: 16px
 }
@@ -365,7 +365,7 @@ panel>iframe+iframe {
 panel>div a {
 	color: #586c90;
 	font-weight: bold;
-	text-shadow: rgba(255, 255, 255, 0.75) 1px 1px 0
+	text-shadow: rgba(255, 255, 255, 1) 1px 1px 0
 }
 
 div.cytyle-app {
@@ -924,7 +924,7 @@ div.cy-table>label {
 	-webkit-background-size: 1px 23px;
 	background-size: 1px 23px;
 	color: #fff;
-	text-shadow: rgba(0, 0, 0, 0.5) 0px 1px 0
+	text-shadow: rgba(0, 0, 0, 1) 0px 1px 0
 }
 
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
