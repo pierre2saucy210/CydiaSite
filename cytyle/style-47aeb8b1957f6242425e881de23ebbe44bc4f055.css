@@ -105,7 +105,8 @@ html.cytyle-faux #cytyle-metric {
 }
 
 html.cytyle-flat {
-	font-family: "Helvetica Neue", Helvetica, Arial
+	font-family: "Helvetica Neue", Helvetica, Arial;
+	background-color: #000;
 }
 
 html.cytyle-flat #cytyle-metric {
